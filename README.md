@@ -4,13 +4,13 @@ This repository contains the implementation for GECTurk; the first extensive dat
 
 ## Table of Contents
 
-1.  [Data Generation Pipeline](#pipeline)
-2.  [Datasets](#datasets)
+1.  [Data Generation Pipeline](#data-generation-pipeline)
+2.  [Datasets](#dataset)
 3.  [Tasks & Models](#tasks--models)
 4.  [Usage](#usage)
-5.  [Extending the Pipeline](#extending)
+5.  [Extending the Pipeline](#extending-the-pipeline)
 6.  [Acknowledgement](#acknowledgement)
-7.  [Cite](#cite)
+7.  [Citing](#citing)
 
 ## Data Generation Pipeline
 
