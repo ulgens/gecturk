@@ -11,6 +11,7 @@ This repository contains the implementation for GECTurk; the first extensive dat
 5.  [Extending the Pipeline](#extending-the-pipeline)
 6.  [Acknowledgement](#acknowledgement)
 7.  [Citing](#citing)
+8.  [Contact](#contact)
 
 ## Data Generation Pipeline
 
